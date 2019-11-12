@@ -1,3 +1,5 @@
+package DAO;
+
 
 // Une classe d'exceptions spécifiques pour le DAO
 public class DAOException extends Exception {
